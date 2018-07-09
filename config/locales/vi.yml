@@ -25,9 +25,11 @@ vi:
       link_to_book1: "Đây là đường dẫn tới book"
   sessions:
     new:
-      new_user: "Tài khoản mới?"
+      new_user: "Tài khoản mới? "
+      name: "Tên"
       email: "Email"
       password: "Mật khẩu"
+      confirm: "Xác nhận mật khẩu"
       remember_me: "Nhớ mật khẩu?"
   error_details: "Biểu mẫu có "
   error: "lỗi"
@@ -60,3 +62,12 @@ vi:
   password_signup: "Mật khẩu"
   confirm: "Xác nhận mật khẩu"
   create_account: "Tạo tài khoản"
+
+  profile_update: "Cập nhật thông tin"
+  user_delete: "Xóa người dùng"
+  please_login: "Vui lòng đăng nhập"
+  delete: "Xóa"
+  you_sure: "Chắc chắn chưa"
+  edit_user: "Sửa người dùng"
+  save_change: "Lưu thay đổi"
+  all_user: "Tất cả người dùng"

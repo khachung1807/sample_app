@@ -94,3 +94,12 @@ en:
   password_signup: "Password"
   confirm: "Confirmation"
   create_account: "Create my account"
+
+  profile_update: "Profile updated"
+  user_delete: "User deleted"
+  please_login: "Please log in."
+  delete: "Delete"
+  you_sure: "Are you sure"
+  edit_user: "Edit User"
+  save_change: "Save Change"
+  all_user: "All users"
