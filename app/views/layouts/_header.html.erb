@@ -1,6 +1,16 @@
-<header>
-  <div>
-    <%= link_to (t "langEnglish"), locale:"en" %>
-    <%= link_to (t "langVietNam"), locale:"vi" %>
+<header class="navbar navbar-fixed-top navbar-inverse">
+  <div class="container">
+    <%= link_to (t "titleApp"), "#", id: "logo" %>
+    <nav>
+      <ul class="nav navbar-nav navbar-right">
+        <li><%= link_to (t "titleHome"), root_path %></li>
+        <li><%= link_to (t "titleAbout"), about_path %></li>
+        <li><%= link_to (t "titleContact"), contact_path %></li>
+        <li><%= link_to (t "titleHelp"), help_path %></li>
+        <li><%= link_to (t "login"), "#" %></li>
+        <li><%= link_to (t "langEnglish"), locale:"en" %></li>
+        <li><%= link_to (t "langVietNam"), locale:"vi" %></li>
+      </ul>
+    </nav>
   </div>
 </header>
