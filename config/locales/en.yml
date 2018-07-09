@@ -32,7 +32,7 @@
 en:
   static_pages:
     home:
-      title: "Sample App"
+      title: "Home"
       linkToHome: "This is the home page for the "
       linkName: "Ruby on Rails Tutorial"
       linkAbout: "About"
@@ -43,10 +43,10 @@ en:
       linkToHome: "This is the home page for the "
       linkName: "Ruby on Rails Tutorial"
       linkToBook: "This is the book page for Ruby on Rails Tutotial "
-      linksCreencast: "Screencast series"
+      linkScreenCast: "Link to Screen Cast"
     contact:
       title: "Contact"
-      linkToContact: "This is the Contact page"
+      linkToContact: "This is the Contact page "
       linkName: "Contact page"
     help:
       title: "Help"

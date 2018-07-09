@@ -10,8 +10,9 @@ vi:
     about:
       title: "Giới thiệu"
       linkToHome: "Đây là đường dẫn tới trang chủ "
-      linktoBook: "Đây là đường dẫn tới trang book"
+      linktoBook: "Đây là đường dẫn tới trang book "
       linkName: "Ruby on Rails Tutorial"
+      linkScreenCast: "Đường dẫn tới Screen Cast"
     contact:
       title: "Liên hệ"
       linkToContact: "Đây là đưòng dẫn tới trang Liên hệ "
