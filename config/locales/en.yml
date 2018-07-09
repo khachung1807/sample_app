@@ -59,6 +59,10 @@ en:
       new_user: "New user?"
       email: "Email"
       password: "Password"
+      confirm: "Confirmation"
+      create_account: "Create my account"
+      remember_me: "Remember me on this computer"
+
   error_details: "The form contains "
   error: "errors"
   valid_login: "Invalid email/password combination"

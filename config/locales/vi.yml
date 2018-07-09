@@ -23,18 +23,12 @@ vi:
       link_name: "Ruby on Rails Tutorial"
       link_name_help: "Giúp đỡ"
       link_to_book1: "Đây là đường dẫn tới book"
-  users:
-    new:
-      name: "Tên"
-      email: "Email"
-      password: "Mật khẩu"
-      confirm: "Xác nhận mật khẩu"
-      create_account: "Tạo tài khoản"
   sessions:
     new:
       new_user: "Tài khoản mới?"
       email: "Email"
       password: "Mật khẩu"
+      remember_me: "Nhớ mật khẩu?"
   error_details: "Biểu mẫu có "
   error: "lỗi"
   valid_login: "Email hoặc mật khẩu không hợp lệ"
