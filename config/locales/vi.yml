@@ -23,6 +23,7 @@ vi:
       linkName: "Ruby on Rails Tutorial"
       linkNameHelp: "Giúp đỡ"
       linkToBook1: "Đây là đường dẫn tới book"
+
   hello: "Xin chào"
   langEnglish: "Tiếng Anh"
   langVietNam: "Tiếng Việt"
