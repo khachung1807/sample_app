@@ -1,0 +1,12 @@
+<% provide :title, t(".title") %>
+<body>
+  <h1><%= t ".title" %></h1>
+  <p>
+    <%= link_to (t ".linkToHome"), "http://www.railstutorial.org/" %><%= t ".linkName" %>
+  </p>
+  <%= link_to (t ".linkHelp"), "/static_pages/help" %>
+  <%= link_to (t ".linkAbout"), "/static_pages/about" %>
+  <%= link_to (t ".linkContact"), "/static_pages/contact "%><br>
+  <%= link_to (t "langEnglish"), locale:"en" %>
+  <%= link_to (t "langVietNam"), locale:"vi" %>
+</body>

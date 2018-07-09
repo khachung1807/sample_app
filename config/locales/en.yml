@@ -30,4 +30,30 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  static_pages:
+    home:
+      title: "Sample App"
+      linkToHome: "This is the home page for the "
+      linkName: "Ruby on Rails Tutorial"
+      linkAbout: "About"
+      linkContact: "Contact"
+      linkHelp: "Help"
+    about:
+      title: "About"
+      linkToHome: "This is the home page for the "
+      linkName: "Ruby on Rails Tutorial"
+      linkToBook: "This is the book page for Ruby on Rails Tutotial "
+      linksCreencast: "Screencast series"
+    contact:
+      title: "Contact"
+      linkToContact: "This is the Contact page"
+      linkName: "Contact page"
+    help:
+      title: "Help"
+      linkToHelp: "This is the Help page for the "
+      linkName: "Ruby on Rails Tutorial"
+      linkNameHelp: "Help page"
+      linkToBook1: "Link to Book"
   hello: "Hello world"
+  langEnglish: "English"
+  langVietNam: "Vietnamese"

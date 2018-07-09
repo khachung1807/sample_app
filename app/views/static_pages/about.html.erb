@@ -1,0 +1,9 @@
+<% provide :title, t(".title") %>
+<body>
+  <h1><%= t ".title" %></h1>
+  <em><%= link_to (t ".linkToHome"), "http://www.railstutorial.org/" %></em>
+  <%= link_to (t ".linkToBook"), "http://www.railstutorial.org/book/" %><br>
+  <%= link_to (t ".linkScreencast"), "http://screencasts.railstutorial.org/" %><br>
+  <%= link_to (t "langEnglish"), locale:"en" %>
+  <%= link_to (t "langVietNam"), locale:"vi" %>
+</body>

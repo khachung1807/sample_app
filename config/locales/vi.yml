@@ -1,0 +1,27 @@
+vi:
+  static_pages:
+    home:
+      title: "Trang chủ"
+      linkToHome: "Đây là đường dẫn tới trang chủ "
+      linkName: "Ruby on Rails Tutorial"
+      linkAbout: "Giới thiệu"
+      linkContact: "Liên hệ"
+      linkHelp: "Giúp đỡ"
+    about:
+      title: "Giới thiệu"
+      linkToHome: "Đây là đường dẫn tới trang chủ "
+      linktoBook: "Đây là đường dẫn tới trang book"
+      linkName: "Ruby on Rails Tutorial"
+    contact:
+      title: "Liên hệ"
+      linkToContact: "Đây là đưòng dẫn tới trang Liên hệ "
+      linkName: "Liên hệ"
+    help:
+      title: "Giúp đỡ"
+      linkToHelp: "Đây là đường dẫn cho trang Giúp đỡ "
+      linkName: "Ruby on Rails Tutorial"
+      linkNameHelp: "Giúp đỡ"
+      linkToBook1: "Đây là đường dẫn tới book"
+  hello: "Xin chào"
+  langEnglish: "Tiếng Anh"
+  langVietNam: "Tiếng Việt"
