@@ -15,8 +15,17 @@ gem "uglifier", ">= 1.3.0"
 
 gem "bootsnap", ">= 1.1.0", require: false
 gem "coffee-rails", "~> 4.2"
+gem "faker", git: "https://github.com/stympy/faker.git", branch: "master"
 gem "jbuilder", "~> 2.5"
 gem "turbolinks", "~> 5"
+
+gem "bootstrap-will_paginate", "~> 1.0"
+gem "will_paginate", "3.1.6"
+
+gem "figaro"
+
+gem "carrierwave", "~> 1.0"
+gem "mini_magick", "4.7.0"
 
 group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]

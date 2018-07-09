@@ -1,6 +1,7 @@
 maximum:
   maximum_name: 50
   maximum_email: 255
+  length_content: 140
 minimum:
   minimum_password: 6
 size:
