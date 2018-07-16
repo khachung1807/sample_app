@@ -54,6 +54,7 @@ en:
       linkName: "Ruby on Rails Tutorial"
       linkNameHelp: "Help page"
       linkToBook1: "Link to Book"
+
   hello: "Hello world"
   langEnglish: "English"
   langVietNam: "Vietnamese"
