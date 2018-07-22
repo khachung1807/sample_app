@@ -73,3 +73,13 @@ vi:
   save_change: "Lưu thay đổi"
   change: "Thay đổi"
   all_user: "Tất cả người dùng"
+  account_activated: "Tài khoản đã đưọc kích hoạt"
+  invalid_activation_link: "Link kích hoạt không hợp lệ"
+  not_activated: "Tài khoản chưa đưọc kích hoạt"
+  check_your_email: "Kiểm tra email của bạn để lấy link kích hoạt"
+  check_activate: "Vui lòng kiểm tra email để kích hoạt tài khoản"
+
+  mailer:
+    user_mailer:
+      subject_activation: "Kích hoạt tài khoản"
+      hi: "Xin chào"

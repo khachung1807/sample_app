@@ -105,3 +105,12 @@ en:
   change: "Change"
   save_change: "Save Change"
   all_user: "All users"
+  account_activated: "Account activated"
+  invalid_activation_link: "Invalid activation link"
+  not_activated: "Account not activated."
+  check_your_email: "Check your email for the activation link."
+  check_activate: "Please check your email to activate your account."
+
+  mailer:
+    user_mailer:
+      subject_activation: "Account activation"
